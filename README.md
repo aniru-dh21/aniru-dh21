@@ -60,4 +60,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniru-dh21&" alt="aniru-dh21" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aniru-dh21)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aniru-dh21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
