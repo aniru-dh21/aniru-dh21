@@ -56,6 +56,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniru-dh21&show_icons=true&locale=en&layout=compact" alt="aniru-dh21" /></p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniru-dh21&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniru-dh21&show_icons=true&locale=en" alt="aniru-dh21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniru-dh21&" alt="aniru-dh21" /></p>
