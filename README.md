@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniru-dh21&label=Profile%20views&color=0e75b6&style=flat" alt="aniru-dh21" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently working on **Computer Vision**
 
 - 👨‍💻 All of my projects are available at [My Website](https://ramachandra-anirudh-vemulapalli.vercel.app)
 
