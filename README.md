@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [HashNode](https://networknomad.hashnode.dev)
 
-- 💬 Ask me about **React and Machine Learning**
+- 💬 Ask me about **Computer Vision**
 
 - 📫 How to reach me [at my mail](mailto:vemulapallianirudh18@gmail.com)
 
